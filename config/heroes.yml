@@ -1,0 +1,141 @@
+bastion:
+  hard:
+    - genji
+    - widowmaker
+  soft:
+d_va:
+  hard:
+    - mei
+    - zenyatta
+  soft:
+    - reaper
+genji:
+  hard:
+    - mei
+    - symmetra
+    - winston
+  soft:
+    - junkrat
+hanzo:
+  hard:
+    - widowmaker
+    - winston
+  soft:
+    - genji
+junkrat:
+  hard:
+    - pharah
+  soft:
+lucio:
+  hard:
+    - bastion
+    - mccree
+    - reaper
+  soft:
+    - mei
+    - roadhog
+mccree:
+  hard:
+    - junkrat
+    - soldier_76
+  soft:
+    - hanzo
+    - widowmaker
+mei:
+  hard:
+    - pharah
+  soft:
+    - mccree
+    - reaper
+    - widowmaker
+    - zarya
+mercy:
+  hard:
+    - hanzo
+    - genji
+    - widowmaker
+  soft:
+    - roadhog
+    - tracer
+pharah:
+  hard:
+    - soldier_76
+    - widowmaker
+  soft:
+    - mccree
+    - roadhog
+reaper:
+  hard:
+    - mccree
+    - pharah
+  soft:
+    - d_va
+reinhardt:
+  hard:
+    - junkrat
+    - pharah
+  soft:
+    - lucio
+    - symmetra
+    - winston
+roadhog:
+  hard:
+    - zarya
+    - zenyatta
+  soft:
+    - reaper
+soldier_76:
+  hard:
+  soft:
+    - bastion
+    - reinhardt
+    - roadhog
+symmetra:
+  hard:
+    - pharah
+    - winston
+  soft:
+torbjorn:
+  hard:
+    - hanzo
+    - soldier_76
+    - widowmaker
+  soft:
+    - genji
+    - reinhardt
+    - zarya
+tracer:
+  hard:
+    - mccree
+  soft:
+    - roadhog
+    - torbjorn
+widowmaker:
+  hard:
+    - d_va
+    - winston
+  soft:
+    - genji
+winston:
+  hard:
+    - bastion
+    - reaper
+  soft:
+    - d_va
+    - pharah
+    - torbjorn
+    - zenyatta
+zarya:
+  hard:
+    - bastion
+    - reaper
+    - reinhardt
+  soft:
+    - zenyatta
+zenyatta:
+  hard:
+    - genji
+    - hanzo
+    - tracer
+    - widowmaker
+  soft:

@@ -1,0 +1,4 @@
+%{"ex_spec": {:hex, :ex_spec, "1.0.0", "b1e791072fecbf80c725adf45e7cbdf3d96af3765638a1f1547824706ece4bc9", [:mix], []},
+  "the_fuzz": {:hex, :the_fuzz, "0.3.0", "39fd4599080d1250b95708912609874fc86c5895f24d960a1748c67b1ac8a840", [:mix], []},
+  "yamerl": {:git, "https://github.com/yakaz/yamerl.git", "ae810a808817d9482b4628ae3e20d746e3729fe0", []},
+  "yaml_elixir": {:hex, :yaml_elixir, "1.1.0", "538b530b4ee641402a1e20bde5fc766a663b6cd0e3ed91f3b7726166fd1cc621", [:mix], []}}
